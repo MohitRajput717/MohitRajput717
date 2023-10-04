@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Rajput</h1>
-<h3 align="center">I'm Mohit Singh, a passionate Data Analyst and Business Analyst with a knack for transforming data into actionable insights.</h3>
+<h3 align="center"> A passionate Data Analyst and Business Analyst with a knack for transforming data into actionable insights.</h3>
 
 <img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCt072Kao-f8FhKigmU4xefLwSTnP_wez-b80wp-G7DA&s.gif">
 
