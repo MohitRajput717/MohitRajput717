@@ -5,7 +5,7 @@
 
 - 🔭 Python Libraries: Pandas, Numpy, Matplotlib, Seaborn, Datetime, Mysql-connector, openpyxl, pywin32, SMTP, polars, autoviz, autowebscraper [Python Libraries](https://github.com/MohitRajput717/python_library_project)
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m **Data Engineering** 'enthusiast'
 
 - 🔭 My portfolio projects are :- [Data-Analyst-Business-Analyst-Portfolio-Project](https://github.com/MohitRajput717/Data-Analyst-Business-Analyst-Portfolio-Project)
 
