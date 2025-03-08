@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
-<h3 align="center">I’m an experienced Business Analyst/Data Analyst with a passion for data analysis, automation, and cloud technologies. With over 11 years of experience in supply chain and logistics, I’ve developed strong technical skills in Python, SQL, AWS and data visualization tools like Power BI.</h3>
+<h3 align="center">I’m an experienced Business Analyst/Data Analyst with a passion for data analysis, automation, and cloud technologies. With over 10 years of experience in supply chain and logistics, I’ve developed strong technical skills in Python, SQL, AWS and data visualization tools like Power BI.</h3>
 
 <img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCt072Kao-f8FhKigmU4xefLwSTnP_wez-b80wp-G7DA&s.gif">
 
